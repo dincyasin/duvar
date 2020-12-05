@@ -5,7 +5,7 @@
 Duvarov kişilerin kendilerine anonim bir duvar yaratabileceği bir uygulamadır. 
 
 ## Demo
-[Duvarov Websitesi](https://duvarov.herokuapp.com/)
+[dincy Websitesi](https://dincapp2.herokuapp.com/)
 
 ## Installation
 
